@@ -27,7 +27,7 @@ void setup() {
     gb.display.init(0, 0, ColorMode::rgb565);
     // sets the display frame rate
     gb.setFrameRate(Game::FrameRate);
-		// initializes the game engine
+    // initializes the game engine
     game.setup();
 }
 
