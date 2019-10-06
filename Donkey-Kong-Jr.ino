@@ -6,7 +6,7 @@
 //                        https://gamebuino.com/@steph
 // -------------------------------------------------------------------------
 
-// include the game engine
+// loads the game engine
 #include "src/engine/Game.h"
 
 // includes the official library
