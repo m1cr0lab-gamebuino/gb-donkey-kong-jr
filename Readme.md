@@ -8,10 +8,10 @@ I tried to stay consistent with the original version by scrupulously examining s
     <tbody>
         <tr>
             <td>
-                <img width="428" src="https://gamebuino.caffe1ne.com/share/donkey-kong-jr/game-and-watch-1380x828.jpg" alt="Original Game & Watch" />
+                <img width="428" src="https://gamebuino.m1cr0lab.com/share/donkey-kong-jr/game-and-watch-1380x828.jpg" alt="Original Game & Watch" />
             </td>
             <td>
-                <img width="428" src="https://gamebuino.caffe1ne.com/share/donkey-kong-jr/demo-856x462.gif" alt="Demo" />
+                <img width="428" src="https://gamebuino.m1cr0lab.com/share/donkey-kong-jr/demo-856x462.gif" alt="Demo" />
             </td>
         </tr>
     </tbody>
@@ -27,7 +27,7 @@ Mario has locked Donkey Kong in a cage, and you play the role of his son, Junior
 
 ## Instructions for use
 
-<img width="600" src="https://gamebuino.caffe1ne.com/share/donkey-kong-jr/gamebuino-meta-1399x551.png" alt="How to play" />
+<img width="600" src="https://gamebuino.m1cr0lab.com/share/donkey-kong-jr/gamebuino-meta-1399x551.png" alt="How to play" />
 
 Button A starts Game A.  
 Button B starts Game B.  
